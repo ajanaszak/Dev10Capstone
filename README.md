@@ -6,13 +6,11 @@ Members: Christian Buonfiglio, Addison Gangwish, Aaron Janaszak, Lucas Mueller
 
 Topic: WHO Mortality Rate
 
-Code folder contains Python code exported from Azure DataBricks, split into segments for our individual Consumers, Producers. Also contains file(s) for ML Model
-
 Project Specifications folder contains required deliverables for Project Kickoff portion of project
 
 Capstone Deliverables folder contains:
   - _Dashboard_ folder containing Power BI file
-  - _Code_ folder containing Python code exported from Azure DataBricks, split into segments for our individual Consumers, Producers. Also contains file(s) for ML Model
+  - _Code_ folder containing Python code exported from Azure DataBricks, split into segments for our individual Consumers, Producers. Also contains file(s) for ML Model and accessory files for data manipulation/moving
   - Dashboard Napkin Drawings and Feedback  
   - Exploratory Questions
   - Visualizations Napkin Drawings and Feedback
