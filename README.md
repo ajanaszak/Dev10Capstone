@@ -21,4 +21,4 @@ Capstone Deliverables folder contains:
 Important notes and links contains URLs to shared docs between contributors
 
 
-![dashboard](https://github.com/ajanaszak/Dev10Capstone/blob/1ca39022fac3e57b5fe9bda7351c0e90898f69a8/Capstone%20Deliverables/DashboardPicture.png)
+![dashboard](https://github.com/ajanaszak/Dev10Capstone/blob/1ca39022fac3e57b5fe9bda7351c0e90898f69a8/Capstone%20Deliverables/dashboard/DashboardPicture.png)
